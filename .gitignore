@@ -1,5 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
+.vscode/
 
 # Compiled Object files
 *.slo
@@ -76,3 +77,5 @@ DerivedDataCache/*
 # Starter Content
 Content/StarterContent/
 
+#Fmod plugin
+Plugins
