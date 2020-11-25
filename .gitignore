@@ -79,3 +79,7 @@ Content/StarterContent/
 
 #Fmod plugin
 Plugins
+
+#FMOD Projekt
+FMOD_content/vrprojekt/Build/
+FMOD_content/vrprojekt/Assets/
