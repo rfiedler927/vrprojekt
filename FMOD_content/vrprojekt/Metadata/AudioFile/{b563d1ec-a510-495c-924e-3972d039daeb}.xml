@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{b563d1ec-a510-495c-924e-3972d039daeb}">
+		<property name="assetPath">
+			<value>KADU.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>317.20489795918365</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{825a482e-e218-4f58-984c-76683e177a85}</destination>
+		</relationship>
+	</object>
+</objects>
